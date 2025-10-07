@@ -1,0 +1,14 @@
+C:\Users\moham\source\repos\LinQLab\LinQLab\bin\Debug\net8.0\LinQLab.exe
+C:\Users\moham\source\repos\LinQLab\LinQLab\bin\Debug\net8.0\LinQLab.deps.json
+C:\Users\moham\source\repos\LinQLab\LinQLab\bin\Debug\net8.0\LinQLab.runtimeconfig.json
+C:\Users\moham\source\repos\LinQLab\LinQLab\bin\Debug\net8.0\LinQLab.dll
+C:\Users\moham\source\repos\LinQLab\LinQLab\bin\Debug\net8.0\LinQLab.pdb
+C:\Users\moham\source\repos\LinQLab\LinQLab\obj\Debug\net8.0\LinQLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moham\source\repos\LinQLab\LinQLab\obj\Debug\net8.0\LinQLab.AssemblyInfoInputs.cache
+C:\Users\moham\source\repos\LinQLab\LinQLab\obj\Debug\net8.0\LinQLab.AssemblyInfo.cs
+C:\Users\moham\source\repos\LinQLab\LinQLab\obj\Debug\net8.0\LinQLab.csproj.CoreCompileInputs.cache
+C:\Users\moham\source\repos\LinQLab\LinQLab\obj\Debug\net8.0\LinQLab.dll
+C:\Users\moham\source\repos\LinQLab\LinQLab\obj\Debug\net8.0\refint\LinQLab.dll
+C:\Users\moham\source\repos\LinQLab\LinQLab\obj\Debug\net8.0\LinQLab.pdb
+C:\Users\moham\source\repos\LinQLab\LinQLab\obj\Debug\net8.0\LinQLab.genruntimeconfig.cache
+C:\Users\moham\source\repos\LinQLab\LinQLab\obj\Debug\net8.0\ref\LinQLab.dll

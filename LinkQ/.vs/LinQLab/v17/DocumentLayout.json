@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\moham\\source\\repos\\LinQLab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DDC4DDD0-6E72-443C-89B5-72BF2B0A735B}|LinQLab\\LinQLab.csproj|c:\\users\\moham\\source\\repos\\linqlab\\linqlab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDC4DDD0-6E72-443C-89B5-72BF2B0A735B}|LinQLab\\LinQLab.csproj|solutionrelative:linqlab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\source\\repos\\LinQLab\\LinQLab\\Program.cs",
+              "RelativeDocumentMoniker": "LinQLab\\Program.cs",
+              "ToolTip": "C:\\Users\\moham\\source\\repos\\LinQLab\\LinQLab\\Program.cs",
+              "RelativeToolTip": "LinQLab\\Program.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAAAJ0AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T10:20:54.67Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
