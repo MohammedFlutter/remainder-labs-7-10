@@ -1,0 +1,188 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\moham\\source\\repos\\TodoWin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C097C818-8326-4DB1-80AE-A97B56A557ED}|TodoWin\\TodoWin.csproj|C:\\Users\\moham\\source\\repos\\TodoWin\\todowin\\todoview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C097C818-8326-4DB1-80AE-A97B56A557ED}|TodoWin\\TodoWin.csproj|solutionrelative:todowin\\todoview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C097C818-8326-4DB1-80AE-A97B56A557ED}|TodoWin\\TodoWin.csproj|c:\\users\\moham\\source\\repos\\todowin\\todowin\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C097C818-8326-4DB1-80AE-A97B56A557ED}|TodoWin\\TodoWin.csproj|solutionrelative:todowin\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C097C818-8326-4DB1-80AE-A97B56A557ED}|TodoWin\\TodoWin.csproj|c:\\users\\moham\\source\\repos\\todowin\\todowin\\todoview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C097C818-8326-4DB1-80AE-A97B56A557ED}|TodoWin\\TodoWin.csproj|solutionrelative:todowin\\todoview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C097C818-8326-4DB1-80AE-A97B56A557ED}|TodoWin\\TodoWin.csproj|C:\\Users\\moham\\source\\repos\\TodoWin\\todowin\\updatedeletetodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C097C818-8326-4DB1-80AE-A97B56A557ED}|TodoWin\\TodoWin.csproj|solutionrelative:todowin\\updatedeletetodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C097C818-8326-4DB1-80AE-A97B56A557ED}|TodoWin\\TodoWin.csproj|c:\\users\\moham\\source\\repos\\todowin\\todowin\\updatedeletetodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C097C818-8326-4DB1-80AE-A97B56A557ED}|TodoWin\\TodoWin.csproj|solutionrelative:todowin\\updatedeletetodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C097C818-8326-4DB1-80AE-A97B56A557ED}|TodoWin\\TodoWin.csproj|c:\\users\\moham\\source\\repos\\todowin\\todowin\\todowin.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C097C818-8326-4DB1-80AE-A97B56A557ED}|TodoWin\\TodoWin.csproj|solutionrelative:todowin\\todowin.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C097C818-8326-4DB1-80AE-A97B56A557ED}|TodoWin\\TodoWin.csproj|c:\\users\\moham\\source\\repos\\todowin\\todowin\\strings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C097C818-8326-4DB1-80AE-A97B56A557ED}|TodoWin\\TodoWin.csproj|solutionrelative:todowin\\strings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C097C818-8326-4DB1-80AE-A97B56A557ED}|TodoWin\\TodoWin.csproj|c:\\users\\moham\\source\\repos\\todowin\\todowin\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C097C818-8326-4DB1-80AE-A97B56A557ED}|TodoWin\\TodoWin.csproj|solutionrelative:todowin\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C097C818-8326-4DB1-80AE-A97B56A557ED}|TodoWin\\TodoWin.csproj|c:\\users\\moham\\source\\repos\\todowin\\todowin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C097C818-8326-4DB1-80AE-A97B56A557ED}|TodoWin\\TodoWin.csproj|solutionrelative:todowin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C097C818-8326-4DB1-80AE-A97B56A557ED}|TodoWin\\TodoWin.csproj|C:\\Users\\moham\\source\\repos\\TodoWin\\todowin\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C097C818-8326-4DB1-80AE-A97B56A557ED}|TodoWin\\TodoWin.csproj|solutionrelative:todowin\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TodoWin.csproj",
+              "DocumentMoniker": "C:\\Users\\moham\\source\\repos\\TodoWin\\TodoWin\\TodoWin.csproj",
+              "RelativeDocumentMoniker": "TodoWin\\TodoWin.csproj",
+              "ToolTip": "C:\\Users\\moham\\source\\repos\\TodoWin\\TodoWin\\TodoWin.csproj",
+              "RelativeToolTip": "TodoWin\\TodoWin.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-01T09:45:33.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpdateDeleteToDo.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\source\\repos\\TodoWin\\TodoWin\\UpdateDeleteToDo.cs",
+              "RelativeDocumentMoniker": "TodoWin\\UpdateDeleteToDo.cs",
+              "ToolTip": "C:\\Users\\moham\\source\\repos\\TodoWin\\TodoWin\\UpdateDeleteToDo.cs",
+              "RelativeToolTip": "TodoWin\\UpdateDeleteToDo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T18:11:00.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpdateDeleteToDo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\moham\\source\\repos\\TodoWin\\TodoWin\\UpdateDeleteToDo.cs",
+              "RelativeDocumentMoniker": "TodoWin\\UpdateDeleteToDo.cs",
+              "ToolTip": "C:\\Users\\moham\\source\\repos\\TodoWin\\TodoWin\\UpdateDeleteToDo.cs [Design]",
+              "RelativeToolTip": "TodoWin\\UpdateDeleteToDo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T18:10:41.171Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ToDoView.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\moham\\source\\repos\\TodoWin\\TodoWin\\ToDoView.cs",
+              "RelativeDocumentMoniker": "TodoWin\\ToDoView.cs",
+              "ToolTip": "C:\\Users\\moham\\source\\repos\\TodoWin\\TodoWin\\ToDoView.cs [Design]",
+              "RelativeToolTip": "TodoWin\\ToDoView.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T12:15:21.895Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ToDo.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\source\\repos\\TodoWin\\TodoWin\\ToDo.cs",
+              "RelativeDocumentMoniker": "TodoWin\\ToDo.cs",
+              "ToolTip": "C:\\Users\\moham\\source\\repos\\TodoWin\\TodoWin\\ToDo.cs",
+              "RelativeToolTip": "TodoWin\\ToDo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T12:09:53.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ToDoView.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\source\\repos\\TodoWin\\TodoWin\\ToDoView.cs",
+              "RelativeDocumentMoniker": "TodoWin\\ToDoView.cs",
+              "ToolTip": "C:\\Users\\moham\\source\\repos\\TodoWin\\TodoWin\\ToDoView.cs",
+              "RelativeToolTip": "TodoWin\\ToDoView.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAcwCMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T12:08:01.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Strings.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\source\\repos\\TodoWin\\TodoWin\\Strings.cs",
+              "RelativeDocumentMoniker": "TodoWin\\Strings.cs",
+              "ToolTip": "C:\\Users\\moham\\source\\repos\\TodoWin\\TodoWin\\Strings.cs",
+              "RelativeToolTip": "TodoWin\\Strings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T11:48:00.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\source\\repos\\TodoWin\\TodoWin\\Form1.cs",
+              "RelativeDocumentMoniker": "TodoWin\\Form1.cs",
+              "ToolTip": "C:\\Users\\moham\\source\\repos\\TodoWin\\TodoWin\\Form1.cs",
+              "RelativeToolTip": "TodoWin\\Form1.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAIwCYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T11:07:47.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\source\\repos\\TodoWin\\TodoWin\\Program.cs",
+              "RelativeDocumentMoniker": "TodoWin\\Program.cs",
+              "ToolTip": "C:\\Users\\moham\\source\\repos\\TodoWin\\TodoWin\\Program.cs",
+              "RelativeToolTip": "TodoWin\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T11:08:25.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\moham\\source\\repos\\TodoWin\\TodoWin\\Form1.cs",
+              "RelativeDocumentMoniker": "TodoWin\\Form1.cs",
+              "ToolTip": "C:\\Users\\moham\\source\\repos\\TodoWin\\TodoWin\\Form1.cs [Design]",
+              "RelativeToolTip": "TodoWin\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T11:07:45.298Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

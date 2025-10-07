@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\moham\\source\\repos\\OfflineConsole\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B167F07-2F9C-4262-A291-6E91A4A3E893}|OfflineConsole\\OfflineConsole.csproj|c:\\users\\moham\\source\\repos\\offlineconsole\\offlineconsole\\todoofflineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B167F07-2F9C-4262-A291-6E91A4A3E893}|OfflineConsole\\OfflineConsole.csproj|solutionrelative:offlineconsole\\todoofflineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B167F07-2F9C-4262-A291-6E91A4A3E893}|OfflineConsole\\OfflineConsole.csproj|c:\\users\\moham\\source\\repos\\offlineconsole\\offlineconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B167F07-2F9C-4262-A291-6E91A4A3E893}|OfflineConsole\\OfflineConsole.csproj|solutionrelative:offlineconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B167F07-2F9C-4262-A291-6E91A4A3E893}|OfflineConsole\\OfflineConsole.csproj|c:\\users\\moham\\source\\repos\\offlineconsole\\offlineconsole\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B167F07-2F9C-4262-A291-6E91A4A3E893}|OfflineConsole\\OfflineConsole.csproj|solutionrelative:offlineconsole\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ToDo.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\source\\repos\\OfflineConsole\\OfflineConsole\\ToDo.cs",
+              "RelativeDocumentMoniker": "OfflineConsole\\ToDo.cs",
+              "ToolTip": "C:\\Users\\moham\\source\\repos\\OfflineConsole\\OfflineConsole\\ToDo.cs",
+              "RelativeToolTip": "OfflineConsole\\ToDo.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T10:18:05.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ToDoOfflineService.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\source\\repos\\OfflineConsole\\OfflineConsole\\ToDoOfflineService.cs",
+              "RelativeDocumentMoniker": "OfflineConsole\\ToDoOfflineService.cs",
+              "ToolTip": "C:\\Users\\moham\\source\\repos\\OfflineConsole\\OfflineConsole\\ToDoOfflineService.cs",
+              "RelativeToolTip": "OfflineConsole\\ToDoOfflineService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T09:33:25.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\source\\repos\\OfflineConsole\\OfflineConsole\\Program.cs",
+              "RelativeDocumentMoniker": "OfflineConsole\\Program.cs",
+              "ToolTip": "C:\\Users\\moham\\source\\repos\\OfflineConsole\\OfflineConsole\\Program.cs",
+              "RelativeToolTip": "OfflineConsole\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvxYAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T09:29:30.321Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+﻿using Microsoft.Data.SqlClient;
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement.Tab;
+
+namespace TodoWin
+{
+    public partial class UpdateDeleteToDo : Form
+    {
+        public UpdateDeleteToDo(ToDo toDo)
+        {
+            ToDo = toDo;
+            InitializeComponent();
+            TitleBox.Text = toDo.Title;
+            BodyBox.Text = toDo.Body;
+        }
+
+        public ToDo ToDo { get; init; }
+
+        private void UpdateButton_Click(object sender, EventArgs e)
+        {
+            var title = TitleBox.Text;
+            var body = BodyBox.Text;
+            if (string.IsNullOrEmpty(title))
+            {
+                MessageBox.Show("Title cannot be empty");
+                return;
+            }
+            var updatedToDo = new ToDo
+            {
+                Id = ToDo.Id,
+                Title = title,
+                Body = body
+            };
+
+            using (var sqlConnection = new SqlConnection(Strings.ConnectionString))
+            {
+                sqlConnection.Open();
+                var sqlCommand = new SqlCommand("UpdateToDo", sqlConnection);
+                sqlCommand.CommandType = CommandType.StoredProcedure;
+                sqlCommand.Parameters.AddWithValue("@Id", updatedToDo.Id);
+                sqlCommand.Parameters.AddWithValue("@Title", updatedToDo.Title);
+                sqlCommand.Parameters.AddWithValue("@Body", updatedToDo.Body);
+                sqlCommand.ExecuteNonQuery();
+            }
+
+            this.Close();
+        }
+
+        private void DeleteButton_Click(object sender, EventArgs e)
+        {
+            using (var sqlConnection = new SqlConnection(Strings.ConnectionString))
+            {
+                sqlConnection.Open();
+                var sqlCommand = new SqlCommand($"DELETE FROM TODO WHERE Id ={ToDo.Id}", sqlConnection);
+
+                sqlCommand.ExecuteNonQuery();
+            }
+            this.Close();
+
+        }
+
+        private void BodyBox_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+    }
+}
